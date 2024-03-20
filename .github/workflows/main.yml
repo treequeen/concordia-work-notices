@@ -1,0 +1,23 @@
+name: Scheduled script
+
+on:
+  schedule:
+  - cron: "0 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Setup python version
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.10.12
+
+    - name: Install dependencies
+      uses: py-actions/py-dependency-install@v2
+      with:
+        path: "requirements.txt"
+
+    - name: Execute script
+      run: python rss_scraper-2.py
