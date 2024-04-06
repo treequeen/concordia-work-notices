@@ -1,4 +1,74 @@
 pubdate,summary,building,floor,rooms,startdate,enddate,starttime,endtime,keywords,bullets,fulltext,link
+2024-04-05,Construction project to renovate H7 washrooms ,H,['H7'],"['H-702', 'H-704', 'H702', 'H704.']",2024-04-06,2024-04-07,06:00,14:00,"['building', 'noise']","['The work is limited to the washrooms H702 and H704.', 'Construction noise from the work might be heard on the 6th, 7th and 8th floor of the Hall Building.', 'This work is part of project 22-062.']","
+To the users and occupants of the Hall Building,
+A planned construction project inside the H-702 and H-704 washrooms is SCHEDULED to occur on Saturday, 2024-04-06 and Sunday, 2024-04-07, between the hours of 06:00 and 14:00. This work is required as part of the renovation of the H7 washrooms.
+Building
+
+S- H / Henry F. Hall Building
+
+General Information
+
+The work is limited to the washrooms H702 and H704.
+Construction noise from the work might be heard on the 6th, 7th and 8th floor of the Hall Building.
+This work is part of project 22-062.
+
+We thank you for your understanding.
+Project Management
+Facilities Management
+",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/05/construction.html
+2024-04-05,Closure due to emergency power interruption ,Building,[],[],2024-04-19,2024-04-20,23:00,03:00,"['building', 'closed', 'closure']","['The\xa0emergency power will be interrupted in the HU building.', None, 'Regular power will remain operational.\xa0', 'Other buildings will not be affected.', None]","
+To the users and occupants of the HU Building,
+A planned interruption of the emergency electrical power requiring a building closure is SCHEDULED from Friday 2024-04-19 at 23:00 to Saturday 2024-04-20 at 03:00. This interruption is required as part of a project to install electrical metering systems in Loyola buildings for project #15-057.
+Building
+
+L- HU / Applied Science Hub
+ 
+
+General Information
+
+The emergency power will be interrupted in the HU building.
+Access to the HU building will be closed on Friday April 19th at 23:00 to Saturday April 20th at 03:00.
+Regular power will remain operational. 
+Other buildings will not be affected.
+Local signage will be posted by April 15th.
+ 
+
+We thank you for your understanding.
+Project Management
+Facilities Management
+",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/05/Interruption.html
+2024-04-04,Cooling water interruption ,MB,[],[],2024-04-19,,23:00,07:00,"['building', 'out of service']",[],"
+To the users and occupants of the MB Building,
+
+A planned interruption of the cooling water system is SCHEDULED to occur on Friday, 2024-04-19 from 23:00 to 07:00. Corrective maintenance is required to repair a malfunction of the cooling system in the MB building.
+ 
+Building
+●        S- MB / John Molson Building
+
+General Information
+●        The air conditioning system will be out of service.
+●        MB 4.242 will not be affected by this interruption.
+
+We thank you for your understanding.
+
+Property Management
+Facilities Management
+ 
+ 
+ 
+ 
+ 
+ 
+",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/04/Water.html
+2024-04-02,Facilities Management year-end deadline for service requests,,[],[],,,,,['east'],[],"
+To the University community,
+To meet Financial Services’ year-end requirements, we wish to inform you that service requests COMPLETED on or after April 20th will be charged to fiscal year 2024-2025. This means that a work order must be completed by Facilities Management on or before April 19th in order to be charged to the current fiscal year.
+We will make every attempt to complete work orders that were submitted at least 10 business days prior to this deadline. However, depending on the scope of the work, some may remain in progress into the new fiscal year.
+We thank you for your understanding.
+Facilities Management
+Concordia University
+ 
+",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/02/notice.html
 2024-03-28,Elevator # 7 ,EV,[],[],2024-03-28,2024-04-03,,,"['elevator', 'start', 'building', 'west']",[None],"
 To the users and occupants of the EV Building,
 An Unplanned interruption of the EV ELEV 7 (freight)  is UNDERWAY starting for Thursday, 2024-03-28, until approximately Wednesday, 2024-04-03. Corrective maintenance is required.
@@ -30,7 +100,7 @@ Project Management
 Facilities Management
 
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/28/construction.html
-2024-03-26,"PC Buidling exterior fields: Replacement of the exterior electrical cabinet to begin - April 2, 2024",,[],[],2024-04-02,,06:00,,"['begin', 'building', 'exterior']","['The electrical supply to the exterior field lighting system and press box will be interrupted.', 'The existing electrical cabinet will be removed.', 'A safety perimeter will be put in place around the electrical cabinet during construction.', 'The construction activities do not impact the activities scheduled on both fields and inside the dome.']","
+2024-03-26,"April 2, 2024",to begin,[],[],2024-04-02,,06:00,,"['begin', 'building', 'exterior']","['The electrical supply to the exterior field lighting system and press box will be interrupted.', 'The existing electrical cabinet will be removed.', 'A safety perimeter will be put in place around the electrical cabinet during construction.', 'The construction activities do not impact the activities scheduled on both fields and inside the dome.']","
 To the users and occupants of the PC Building,
 
 A planned replacement of the exterior electrical cabinet between the Sherbrooke and De Maisonneuve exterior fields at the Loyola Athletics complex is SCHEDULED to begin on Tuesday, 2024-04-02 at 06:00 and will last approximately 3 weeks.
@@ -110,75 +180,6 @@ Project Management
 Facilities Management
  
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/22/renovation.html
-2024-03-21,Interruption of elevators and escalators for annual fire safety system inspection ,H,[],[],2024-03-25,,08:00,17:00,"['elevator', 'escalator', 'building']",[],"
-To the users and occupants of the Hall Building,
-
-Planned interruptions of the S-H elevators and escalators are SCHEDULED for Monday, 2024-03-25, between the hours of 08:00 and 17:00.
-Annual inspections are required on all units to ensure the fire safety systems are functional and up to code .
-Building(s)
-
-S- H / Henry F. Hall Building
-
-General Information
-●       Temporary shutdown of individual elevator and escalator units during the day.
-●       Only one unit will be shut down at a time, with the exception of any unforeseen circumstances.
-●       Please use other elevators, escalators or stairs to access floors during the interruptions.
-We thank you for your understanding.
-Property Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/21/interruption.html
-2024-03-21,Domestic water supply interruption ,VA,[],[],2024-03-29,2024-03-30,17:00,,"['building', 'closure']",[],"
-To the users and occupants of the VA Building,
-A planned interruption of the domestic water supply is SCHEDULED from Friday,  2024-03-29 at 6:00 to Saturday 2024-03-30 at 17:00.  Corrective maintenance is required in order to replace the domestic water booster pump.
-Building
-●       S- VA / Visual Arts Building
- 
-General Information
-●       All domestic water will be interrupted.
-●       This interruption will require building closure because of lack of sanitary installation onsite. 
- 
-We thank you for your understanding.
- 
-Project Management
-Facilities Management 
-
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/21/Water.html
-2024-03-21,Elevator #1 interruption ,H,[],[],2024-03-26,,08:00,17:00,"['elevator', 'building']",[],"
-To the users and occupants of the Hall Building,
-
-A Planned interruption of the Elevator #1 which services floors 00 to 12 is SCHEDULED for Tuesday, 2024-03-26, between the hours 08:00 and 17:00. Corrective Maintenance is required.
-
-Building
-        • S- H / Henry F. Hall Building
-
-General Information
-
-        • Elevator #2 will remain in service, with access to RC to 12.
-        • Please use other elevator, stairs, or escalators to access floors.
- 
-We thank you for your understanding.
-Property Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/21/elevator.html
-2024-03-20,Elevator #2 interruption ,H,[],[],2024-03-20,,08:00,17:00,"['elevator', 'building']","['ELEVATOR 1 will remain in service.', None]","
-To the users and occupants of the Hall Building,
-A Planned interruption of the Elevator #2 is SCHEDULED for Wednesday, 2024-03-20, between the hours 08:00 and 17:00 has been CANCELLED and will be rescheduled at a later date.
- 
-Building
-
-S- H / Henry F. Hall Building
- 
-
-General Information
-
-ELEVATOR 1 will remain in service.
-Please use other elevators, stairs, or escalators to access floors.
- 
-
-We thank you for your understanding.
-  Property Management
-   Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/20/Interruption.html
 2024-03-28,Elevator # 7 ,EV,[],[],2024-03-28,2024-04-03,,,"['elevator', 'start', 'building', 'west']",[None],"
 To the users and occupants of the EV Building,
 An Unplanned interruption of the EV ELEV 7 (freight)  is UNDERWAY starting for Thursday, 2024-03-28, until approximately Wednesday, 2024-04-03. Corrective maintenance is required.
