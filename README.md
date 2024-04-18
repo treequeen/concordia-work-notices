@@ -9,3 +9,4 @@ Makes this
 
 Currently you need to run code manually in order to get updated map.
 Planning to update to make the map automatically update with live notices.
+Plans to add other buildings on downtown campus.
