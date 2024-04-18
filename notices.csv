@@ -1,4 +1,28 @@
 pubdate,note,summary,building,floor,location,direction,startdate,enddate,starttime,endtime,tags,fulltext,link
+2024-04-18,REMINDER,Closure due to emergency power interruption,['HU'],[],[],[],2024-04-19,2024-04-20,23:00,03:00,,"
+
+To the users and occupants of the HU Building,
+
+A planned interruption of the emergency electrical power requiring a building closure is SCHEDULED from Friday 2024-04-19 at 23:00 to Saturday 2024-04-20 at 03:00. This interruption is required as part of a project to install electrical metering systems in Loyola buildings for project #15-057.
+
+Building
+
+L- HU / Applied Science Hub
+
+   
+General Information
+
+The emergency power will be interrupted in the HU building.
+Access to the HU building will be closed on Friday April 19th at 23:00 to Saturday April 20th at 03:00.
+Regular power will remain operational. 
+Other buildings will not be affected.
+Local signage is posted.
+
+
+We thank you for your understanding.
+Project Management
+Facilities Management
+",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/18/Electrical.html
 2024-04-17,URGENT,Domestic water interruption TODAY,"['TODAY', 'GM']",[],[],[],,,17:00,17:00,,"
 To the users and occupants of the GM Building,
 
@@ -43,7 +67,7 @@ We thank you for your understanding.
 Project Management
 Facilities Management
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/17/Fire.html
-2024-04-16,,Interruption of cold water in west washrooms from H4 to H12,['H'],"['H4', 'H12']","['H412', 'H1110', 'H702', 'H406', 'H810', 'H121', 'H510', 'H704', 'H910', 'H606', 'H1010']",['west'],2024-04-18,,22:00,06:00,,"
+2024-04-16,,Interruption of cold water in west washrooms from H4 to H12,['H'],"['H4', 'H12']","['H606', 'H702', 'H1110', 'H406', 'H810', 'H910', 'H1010', 'H510', 'H121', 'H412', 'H704']",['west'],2024-04-18,,22:00,06:00,,"
 To the users and occupants of the Hall Building,
 A planned interruption of the cold water in west washrooms (H4 to H12) of the Hall Building  is SCHEDULED for Thursday, 2024-04-18, overnight between the hours of 22:00 and 06:00. This interruption is required for plumbing maintenance as part of project 22-062 .
 Building(s)
@@ -90,7 +114,7 @@ Gestion immobilière
 Université Concordia
  
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/12/seasonal.html
-2024-04-12,,Temporary closure of basement 1 corridor ,"['FG', 'A', 'FB']",[],"['A-190.90', 'corridor', 'basement']",[],2024-03-14,2024-04-28,05:00,23:00,,"
+2024-04-12,,Temporary closure of basement 1 corridor ,"['A', 'FB', 'FG']",[],"['corridor', 'A-190.90', 'basement']",[],2024-03-14,2024-04-28,05:00,23:00,,"
 To the users and occupants of the FB / FG Buildings,
 The temporary closing of the FB-FG basement 1 corridor A-190.90 that began on Thursday, 2024-03-14 at 05:00 is now SCHEDULED to continue until Sunday, 2024-04-28 at 23:00.
 The repairs requiring the temporary closure of this basement corridor will last for 6 weeks.  As a result,  public circulation will be redirected through the ground floor during this time.
@@ -176,7 +200,7 @@ Project Management
 Facilities Management
 
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/09/installation.html
-2024-04-05,,Construction project to renovate H7 washrooms,['H'],['H7'],"['H704.', 'H702', 'H-704', 'H-702']",[],2024-04-06,2024-04-07,06:00,14:00,,"
+2024-04-05,,Construction project to renovate H7 washrooms,['H'],['H7'],"['H-704', 'H702', 'H-702', 'H704.']",[],2024-04-06,2024-04-07,06:00,14:00,,"
 To the users and occupants of the Hall Building,
 A planned construction project inside the H-702 and H-704 washrooms is SCHEDULED to occur on Saturday, 2024-04-06 and Sunday, 2024-04-07, between the hours of 06:00 and 14:00. This work is required as part of the renovation of the H7 washrooms.
 Building
@@ -262,7 +286,7 @@ We thank you for your understanding.
 Property Management
 Facilities Management
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/28/Interruption.html
-2024-03-28,,Construction to begin in H00 corridors north sector,['H'],['H00'],"['H0027', 'H0029', 'H0025', 'corridor']",['north'],2024-04-02,,,,,"
+2024-03-28,,Construction to begin in H00 corridors north sector,['H'],['H00'],"['corridor', 'H0027', 'H0025', 'H0029']",['north'],2024-04-02,,,,,"
 A construction project in the Hall Building is SCHEDULED to begin on Tuesday, 2024-04-02. This project will decontaminate the north sector of the H00 corridors and is expected to be completed by June 2024.
 Building(s)
 
@@ -297,7 +321,7 @@ Project Management
 Facilities Management
 
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/26/construction.html
-2024-03-22,,Construction project to renovate H0014 washroom to begin,['H'],['H00'],"['H0024', 'H0076', 'H0014', 'H0072']",[],2024-03-25,,06:00,16:00,,"
+2024-03-22,,Construction project to renovate H0014 washroom to begin,['H'],['H00'],"['H0076', 'H0024', 'H0014', 'H0072']",[],2024-03-25,,06:00,16:00,,"
 To the users and occupants of the Hall Building,
 A construction project to renovate washroom H0014 into a next generation inclusive washroom is SCHEDULED to begin on Monday, 2024-03-25.  Construction activities will typically occur from Monday to Friday, between the hours of 06:00 and 16:00. This project “22-063, ""Renovate Washrooms H00"" is anticipated to be completed by the end of November 2024.
 Building(s)
@@ -315,7 +339,7 @@ Project Management
 Facilities Management
 
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/22/construction.html
-2024-03-22,,Shutdown of cold water in west washrooms from H4 to H12,['H'],"['H7', 'H4', 'H12']","['H412', 'H1110', 'H702', 'H406', 'H810', 'H121', 'H510', 'H704', 'H910', 'H606', 'H1010']",['west'],2024-03-26,,06:00,08:00,,"
+2024-03-22,,Shutdown of cold water in west washrooms from H4 to H12,['H'],"['H4', 'H12', 'H7']","['H606', 'H702', 'H1110', 'H406', 'H810', 'H910', 'H1010', 'H510', 'H121', 'H412', 'H704']",['west'],2024-03-26,,06:00,08:00,,"
  
 To the users and occupants of the Hall Building,
 A Planned interruption of the cold water in west washrooms (H4 to H12) of the Hall Building  is SCHEDULED for Tuesday, 2024-03-26, between the hours 06:00 and 08:00. An assessment
@@ -445,7 +469,7 @@ We thank you for your understanding.
   Property Management
    Facilities Management
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/19/Elevator.html
-2024-03-18,,Domestic water Interruption,"['LB', 'MB', 'GN', 'EV', 'GM', 'VA', 'H', 'FB']",[],[],[],2024-03-25,2024-03-28,06:00,08:00,,"
+2024-03-18,,Domestic water Interruption,"['LB', 'H', 'FB', 'MB', 'GN', 'EV', 'VA', 'GM']",[],[],[],2024-03-25,2024-03-28,06:00,08:00,,"
 To the users and occupants of the H, LB, EV, GM, GN, MB, VA, and FB Buildings,
 A series of planned domestic hot and cold water interruptions will be SCHEDULED from Monday, 2024-03-25 until Thursday, 2024-03-28.  The closing of the main water inlet valve is required for corrective maintenance and to ensure reliability of the system . Interruption will last for approximately 30 minutes between the hours of 06:00 and 08:00 for each building on the dates indicated below.
 Building(s)
@@ -468,7 +492,7 @@ We thank you for your understanding.
 Property Management
 Facilities Management
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/18/interruption.html
-2024-03-14,REMINDER,Temporary closure of basement 1 corridor ,"['FG', 'A', 'FB']",[],"['A-190.90', 'corridor', 'basement']",[],2024-03-14,2024-04-14,05:00,23:00,,"
+2024-03-14,REMINDER,Temporary closure of basement 1 corridor ,"['A', 'FB', 'FG']",[],"['corridor', 'A-190.90', 'basement']",[],2024-03-14,2024-04-14,05:00,23:00,,"
 To the users and occupants of the FB / FG Buildings,
 A planned temporary closure of the FB-FG basement 1 corridor A-190.90 is SCHEDULED to begin on Thursday, 2024-03-14 at 05:00 until Sunday,  2024-04-14 at 23:00.
 The repairs requiring the temporary closure of this basement corridor will last for one month. Public circulation will be redirected through the ground floor during this time.
@@ -514,7 +538,7 @@ We thank you for your understanding.
 Project Management
 Facilities Management
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/12/closure.html
-2024-03-11,,Parking closure level S2 to S7,['FB'],"['S2', 'S7']",['parking'],[],2024-03-14,2024-03-15,17:00,06:00,,"
+2024-03-11,,Parking closure level S2 to S7,['FB'],"['S7', 'S2']",['parking'],[],2024-03-14,2024-03-15,17:00,06:00,,"
 To the users and occupants of the FB Building,
 
 Painting work is SCHEDULED to take place from Thursday, 2024-03-14 until Friday, 2024-03-15, between the hours of 17:00 and 06:00.
@@ -538,382 +562,6 @@ Project Management
 Facilities Management
 ",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/11/Paint.html
 2024-03-07,,Exploratory openings of washroom ceilings to be continued,['H'],[],"['H053', 'H1192', 'H109', 'H1104', 'H804', 'H1486']",[],2024-03-04,2024-03-11,06:00,14:00,,"
-To the users and occupants of the Hall Builiding,
-The continuation of exploratory openings of washroom ceilings that commenced and was SCHEDULED on Monday, 2024-03-04, will continue next week Monday, 2024-03-11 between the hours of 06:00 and 14:00. Exploratory openings of washroom ceilings are required to allow the professionals to complete surveys in the future for project 22-064 .
-Building(s)
-
-S- H / Henry F. Hall Building
-
-General Information
-●       All Public washrooms in the Hall are now fully reopened.
-●       H804, H1192, H1104 are now fully reopened.
-●       H1486, H109 and H053, H1192 and H1104 will be closed from March 8th 2024 to March 11th 2024.  
-We thank you for your understanding.
-Project Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/07/exploratory.html
-2024-04-05,,Construction project to renovate H7 washrooms,['H'],['H7'],"['H-702', 'H704.', 'H-704', 'H702']",[],2024-04-06,2024-04-07,06:00,14:00,,"
-To the users and occupants of the Hall Building,
-A planned construction project inside the H-702 and H-704 washrooms is SCHEDULED to occur on Saturday, 2024-04-06 and Sunday, 2024-04-07, between the hours of 06:00 and 14:00. This work is required as part of the renovation of the H7 washrooms.
-Building
-
-S- H / Henry F. Hall Building
-
-General Information
-
-The work is limited to the washrooms H702 and H704.
-Construction noise from the work might be heard on the 6th, 7th and 8th floor of the Hall Building.
-This work is part of project 22-062.
-
-We thank you for your understanding.
-Project Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/05/construction.html
-2024-04-05,,Closure due to emergency power interruption,['HU'],[],[],[],2024-04-19,2024-04-20,23:00,03:00,,"
-To the users and occupants of the HU Building,
-A planned interruption of the emergency electrical power requiring a building closure is SCHEDULED from Friday 2024-04-19 at 23:00 to Saturday 2024-04-20 at 03:00. This interruption is required as part of a project to install electrical metering systems in Loyola buildings for project #15-057.
-Building
-
-L- HU / Applied Science Hub
- 
-
-General Information
-
-The emergency power will be interrupted in the HU building.
-Access to the HU building will be closed on Friday April 19th at 23:00 to Saturday April 20th at 03:00.
-Regular power will remain operational. 
-Other buildings will not be affected.
-Local signage will be posted by April 15th.
- 
-
-We thank you for your understanding.
-Project Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/05/Interruption.html
-2024-04-04,,Cooling water interruption,['MB'],[],[],[],2024-04-19,,23:00,07:00,,"
-To the users and occupants of the MB Building,
-
-A planned interruption of the cooling water system is SCHEDULED to occur on Friday, 2024-04-19 from 23:00 to 07:00. Corrective maintenance is required to repair a malfunction of the cooling system in the MB building.
- 
-Building
-●        S- MB / John Molson Building
-
-General Information
-●        The air conditioning system will be out of service.
-●        MB 4.242 will not be affected by this interruption.
-
-We thank you for your understanding.
-
-Property Management
-Facilities Management
- 
- 
- 
- 
- 
- 
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/04/Water.html
-2024-04-02,,Facilities Management year-end deadline for service requests,[],[],[],[],,,,,,"
-To the University community,
-To meet Financial Services’ year-end requirements, we wish to inform you that service requests COMPLETED on or after April 20th will be charged to fiscal year 2024-2025. This means that a work order must be completed by Facilities Management on or before April 19th in order to be charged to the current fiscal year.
-We will make every attempt to complete work orders that were submitted at least 10 business days prior to this deadline. However, depending on the scope of the work, some may remain in progress into the new fiscal year.
-We thank you for your understanding.
-Facilities Management
-Concordia University
- 
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/04/02/notice.html
-2024-03-28,,Elevator # 7 ,['EV'],[],['elevator'],[],2024-03-28,2024-04-03,,,,"
-To the users and occupants of the EV Building,
-An Unplanned interruption of the EV ELEV 7 (freight)  is UNDERWAY starting for Thursday, 2024-03-28, until approximately Wednesday, 2024-04-03. Corrective maintenance is required.
-Building
-
-S- EV / Engr, Comp. Sci. & Visual Arts Complex
-
-General Information
-
- Please use westside freight (ELEV 6) For freight transport.
- 
-
-We thank you for your understanding.
-Property Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/28/Interruption.html
-2024-03-28,,Construction to begin in H00 corridors north sector,['H'],['H00'],"['H0029', 'H0027', 'corridor', 'H0025']",['north'],2024-04-02,,,,,"
-A construction project in the Hall Building is SCHEDULED to begin on Tuesday, 2024-04-02. This project will decontaminate the north sector of the H00 corridors and is expected to be completed by June 2024.
-Building(s)
-
-S- H / Henry F. Hall Building
-
-General Information
-●       The room H0029 will not be accessible till the end of construction.
-●       Rooms H0025, H0027 will be accessible using alternate paths. Redirectional and emergency signage will be posted to indicate path of access.
-●       This construction is related to project 18-072 LOT 2 (phase 3). 
-We thank you for your understanding.
-Project Management
-Facilities Management
-
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/28/construction.html
-2024-03-26,,Replacement of the exterior electrical cabinet to begin,['PC'],[],[],[],2024-04-02,,06:00,,,"
-To the users and occupants of the PC Building,
-
-A planned replacement of the exterior electrical cabinet between the Sherbrooke and De Maisonneuve exterior fields at the Loyola Athletics complex is SCHEDULED to begin on Tuesday, 2024-04-02 at 06:00 and will last approximately 3 weeks.
-Building
-
-PC Perform Center
-
-General Information
-
-The electrical supply to the exterior field lighting system and press box will be interrupted.
-The existing electrical cabinet will be removed.
-A safety perimeter will be put in place around the electrical cabinet during construction.
-The construction activities do not impact the activities scheduled on both fields and inside the dome.
-
-We thank you for your understanding.
-Project Management
-Facilities Management
-
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/26/construction.html
-2024-03-22,,Construction project to renovate H0014 washroom to begin,['H'],['H00'],"['H0024', 'H0072', 'H0014', 'H0076']",[],2024-03-25,,06:00,16:00,,"
-To the users and occupants of the Hall Building,
-A construction project to renovate washroom H0014 into a next generation inclusive washroom is SCHEDULED to begin on Monday, 2024-03-25.  Construction activities will typically occur from Monday to Friday, between the hours of 06:00 and 16:00. This project “22-063, ""Renovate Washrooms H00"" is anticipated to be completed by the end of November 2024.
-Building(s)
-
-S- H / Henry F. Hall Building
-
-General Information
-●        The washroom H0014 will remain closed from March 25th 2024 to Fall 2024.
-●        The room H0072 will be closed from May 2024 to June 2024 inclusively.
-●        The work in H0024 and H0076 will be punctual and will be coordinated in advance with the users.
-●        Redirectional and construction signage will be posted for all rooms affected.
-●        All disruptive work is to be conducted off hours and coordinated in advance with impacted users.
-We thank you for your understanding.
-Project Management
-Facilities Management
-
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/22/construction.html
-2024-03-22,,Shutdown of cold water in west washrooms from H4 to H12,['H'],"['H4', 'H12', 'H7']","['H810', 'H1010', 'H702', 'H1110', 'H406', 'H510', 'H910', 'H606', 'H412', 'H121', 'H704']",['west'],2024-03-26,,06:00,08:00,,"
- 
-To the users and occupants of the Hall Building,
-A Planned interruption of the cold water in west washrooms (H4 to H12) of the Hall Building  is SCHEDULED for Tuesday, 2024-03-26, between the hours 06:00 and 08:00. An assessment
-is required to verify the impacts of our upcoming shutdown to make changes in the H7 washroom for project 22-062.
- 
-Building
-
-S- H / Henry F. Hall Building
- 
-
-General Information
-
-        Men’s Washrooms H510, H702, H704, H810, H910, H1010, H1110, H121 and inclusive washroom H412 will be closed for the shutdown.
-        Washrooms H406, H606 will remain open during the interruption for all users.
- 
-
-We thank you for your understanding.
-Project Management
-Facilities Management
- 
- 
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/22/Shutdown.html
-2024-03-22,,Construction project on stairs,['CJ'],[],['stair'],[],2024-03-25,2024-03-27,16:00,,,"
-To the users and occupants of the CJ Building,
-
-A planned renovation of the 1ST and 2ND floor stairs in the CJ Building is SCHEDULED to begin on Monday, 2024-03-25 at 16:00 until the evening of Wednesday, 2024-03-27.
-
-Building
-        • L- CJ / Comms. & Journalism Building
-
-General Information
-        • The targeted stairs will be out of service during the renovation.
-        • Access to other floors will be possible via adjacent stairs and elevators.
-        • The odour of paint may be possible.
-
-
-We thank you for your understanding.
-Project Management
-Facilities Management
- 
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/22/renovation.html
-2024-03-21,, Interruption of elevators and escalators for annual fire safety system inspection,['H'],[],"['elevator', 'escalator']",[],2024-03-25,,08:00,17:00,,"
-To the users and occupants of the Hall Building,
-
-Planned interruptions of the S-H elevators and escalators are SCHEDULED for Monday, 2024-03-25, between the hours of 08:00 and 17:00.
-Annual inspections are required on all units to ensure the fire safety systems are functional and up to code .
-Building(s)
-
-S- H / Henry F. Hall Building
-
-General Information
-●       Temporary shutdown of individual elevator and escalator units during the day.
-●       Only one unit will be shut down at a time, with the exception of any unforeseen circumstances.
-●       Please use other elevators, escalators or stairs to access floors during the interruptions.
-We thank you for your understanding.
-Property Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/21/interruption.html
-2024-03-21,UPDATE,Domestic water supply interruption,['VA'],[],[],[],2024-03-29,2024-03-30,17:00,,,"
-To the users and occupants of the VA Building,
-A planned interruption of the domestic water supply is SCHEDULED from Friday,  2024-03-29 at 6:00 to Saturday 2024-03-30 at 17:00.  Corrective maintenance is required in order to replace the domestic water booster pump.
-Building
-●       S- VA / Visual Arts Building
- 
-General Information
-●       All domestic water will be interrupted.
-●       This interruption will require building closure because of lack of sanitary installation onsite. 
- 
-We thank you for your understanding.
- 
-Project Management
-Facilities Management 
-
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/21/Water.html
-2024-03-21,,Elevator #1 interruption,['H'],[],['elevator'],[],2024-03-26,,08:00,17:00,,"
-To the users and occupants of the Hall Building,
-
-A Planned interruption of the Elevator #1 which services floors 00 to 12 is SCHEDULED for Tuesday, 2024-03-26, between the hours 08:00 and 17:00. Corrective Maintenance is required.
-
-Building
-        • S- H / Henry F. Hall Building
-
-General Information
-
-        • Elevator #2 will remain in service, with access to RC to 12.
-        • Please use other elevator, stairs, or escalators to access floors.
- 
-We thank you for your understanding.
-Property Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/21/elevator.html
-2024-03-20,CANCELLED,Elevator #2 interruption,['H'],[],['elevator'],[],2024-03-20,,08:00,17:00,,"
-To the users and occupants of the Hall Building,
-A Planned interruption of the Elevator #2 is SCHEDULED for Wednesday, 2024-03-20, between the hours 08:00 and 17:00 has been CANCELLED and will be rescheduled at a later date.
- 
-Building
-
-S- H / Henry F. Hall Building
- 
-
-General Information
-
-ELEVATOR 1 will remain in service.
-Please use other elevators, stairs, or escalators to access floors.
- 
-
-We thank you for your understanding.
-  Property Management
-   Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/20/Interruption.html
-2024-03-19,,Elevator #2 interruption,['H'],[],['elevator'],[],2024-03-20,,08:00,17:00,,"
-To the users and occupants of the Hall Building,
-A Planned interruption of the Elevator #2 is SCHEDULED for Wednesday, 2024-03-20, between the hours 08:00 and 17:00. Corrective Maintenance is required.
- 
-Building
-
-S- H / Henry F. Hall Building
- 
-
-General Information
-
-ELEVATOR 1 will remain in service.
-Please use other elevators, stairs, or escalators to access floors.
- 
-
-We thank you for your understanding.
-  Property Management
-   Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/19/Elevator.html
-2024-03-18,,Domestic water Interruption,"['FB', 'LB', 'MB', 'VA', 'GN', 'EV', 'H', 'GM']",[],[],[],2024-03-25,2024-03-28,06:00,08:00,,"
-To the users and occupants of the H, LB, EV, GM, GN, MB, VA, and FB Buildings,
-A series of planned domestic hot and cold water interruptions will be SCHEDULED from Monday, 2024-03-25 until Thursday, 2024-03-28.  The closing of the main water inlet valve is required for corrective maintenance and to ensure reliability of the system . Interruption will last for approximately 30 minutes between the hours of 06:00 and 08:00 for each building on the dates indicated below.
-Building(s)
-
-S- H / Henry F. Hall Building                                        (March 25)
-S- LB / Webster Library Building                                 (March 25)
-S- EV / Engr, Comp. Sci. & Visual Arts Complex        (March 26)
-S- GM / Guy Metro Building                                        (March 26)
-S- GN / Grey Nuns Motherhouse                                (March 27)
-S- MB / John Molson School of Business                    (March 27)
-S- VA / Visual Arts Building                                          (March 28)
-S- FB / Faubourg Tower                                              (March 28)
-
-General Information
-
-Domestic hot and cold water will be out of service
-Toilets, water fountains and eye-wash stations will be out of service
-
-We thank you for your understanding.
-Property Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/18/interruption.html
-2024-03-14,REMINDER,Temporary closure of basement 1 corridor ,"['FB', 'FG', 'A']",[],"['basement', 'corridor', 'A-190.90']",[],2024-03-14,2024-04-14,05:00,23:00,,"
-To the users and occupants of the FB / FG Buildings,
-A planned temporary closure of the FB-FG basement 1 corridor A-190.90 is SCHEDULED to begin on Thursday, 2024-03-14 at 05:00 until Sunday,  2024-04-14 at 23:00.
-The repairs requiring the temporary closure of this basement corridor will last for one month. Public circulation will be redirected through the ground floor during this time.
-Building(s)
-
-S- FB / Faubourg Tower
- S- FG / Faubourg
-
-General Information
-●       Occupants of the FB and FG buildings will not be affected by the work
-●       Any noisy work will be conducted between the hours of 22:00 and 08:00
-●       Signage will redirect public circulation to nearby escalators and elevators to the ground floor
-We thank you for your understanding.
-Project Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/14/closure.html
-2024-03-14,UPDATE,Domestic water supply interruption,['VA'],[],[],[],2024-03-29,2024-03-30,06:00,17:00,,"
-To the users and occupants of the VA Building,
-
-A planned interruption of the domestic water supply is SCHEDULED from Friday, 2024-03-29 at 06:00 to Saturday, 2024-03-30 at 17:00.  Corrective maintenance is required in order to replace the domestic water booster pump.
- Building
-●       S- VA / Visual Arts Building
- 
-General Information
-●       All domestic water will be interrupted.
-●       Bottled water is readily available in the above building, but washrooms will be out of order for the duration of the work.    
-
-We thank you for your understanding.
- 
-Project Management
-Facilities Management  
- 
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/140/Water.html
-2024-03-12,,Building closure due to domestic water supply interruption,['VA'],[],[],[],2024-03-29,2024-03-30,06:00,17:00,,"
-To the users and occupants of the VA Building,
-A planned interruption of the domestic water supply is SCHEDULED from Friday,  2024-03-29 at 06:00 to Saturday, 2024-03-30 at 17:00.  Corrective maintenance is required in order to replace the domestic water booster pump.
- Buildings
-●       S- VA / Visual Arts Building
-General Information
-●       All domestic water will be interrupted.
-●       This interruption will require building closure because of lack of sanitary installation onsite.      
-We thank you for your understanding.
-Project Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/12/closure.html
-2024-03-11,,Parking closure level S2 to S7,['FB'],"['S7', 'S2']",[],[],2024-03-14,2024-03-15,17:00,06:00,,"
-To the users and occupants of the FB Building,
-
-Painting work is SCHEDULED to take place from Thursday, 2024-03-14 until Friday, 2024-03-15, between the hours of 17:00 and 06:00.
- 
-Building
-
-S- FB / Faubourg Tower
-Levels S2 to S7 parking
-
- 
-General Information
-
-Parking areas will be closed during this period.
-A slight odour is possible.
-This work has been coordinated with parking services.
-
-
-
-We thank you for your understanding.
-Project Management
-Facilities Management
-",http://www.concordia.ca/content/shared/en/news/offices/vpss/facilities/2024/03/11/Paint.html
-2024-03-07,,Exploratory openings of washroom ceilings to be continued,['H'],[],"['H109', 'H1486', 'H053', 'H1104', 'H1192', 'H804']",[],2024-03-04,2024-03-11,06:00,14:00,,"
 To the users and occupants of the Hall Builiding,
 The continuation of exploratory openings of washroom ceilings that commenced and was SCHEDULED on Monday, 2024-03-04, will continue next week Monday, 2024-03-11 between the hours of 06:00 and 14:00. Exploratory openings of washroom ceilings are required to allow the professionals to complete surveys in the future for project 22-064 .
 Building(s)
