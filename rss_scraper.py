@@ -162,7 +162,7 @@ def updatenotices(filename, df, commit_message =""):
   if commit_message == "":
       commit_message = "Last updated - "+ dt.now().strftime('%Y-%m-%d %H:%M:%S')
   notices = df.to_csv(sep=',', index=False)
-  g = Github("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")
+  g = Github(${{ secrets.SuperSecret }})
   repo = g.get_user().get_repo("concordia-work-notices")
   master_ref = repo.get_git_ref('heads/main')
   master_sha = master_ref.object.sha
