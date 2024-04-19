@@ -193,7 +193,7 @@ def RSS_scraper(url, firstpage, lastpage):
   posts = posts.fillna('')
 
   posts = getpostsinrange(url, firstpage, lastpage, posts)
-  posts = posts.drop_duplicates(subset=['fulltext'])
+  posts = posts.drop_duplicates(subset=['pubdate', 'summary', 'fulltext'])
 
   print('UPLOAD:\n', posts.loc[1:10, ['pubdate', 'summary']])
   updatenotices('notices.csv', posts)
